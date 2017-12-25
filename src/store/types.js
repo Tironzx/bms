@@ -1,0 +1,4 @@
+export const HOMESHOW="HOMESHOW";
+export const HOMEHIDE="HOMEHIDE";
+export const SHOWLOADING="SHOWLOADING";
+export const HIDELOADING="HIDELOADING";
